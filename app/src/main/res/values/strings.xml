@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentTest</string>
+    <string name="txt_sw_small_photo">Small Photo</string>
+    <string name="txt_sw_large_photo">Large Photo</string>
+</resources>
